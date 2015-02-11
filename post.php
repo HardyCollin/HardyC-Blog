@@ -8,3 +8,13 @@ if (authenticateUser()) {
 }
 require_once (__DIR__ . "/views/form.php");
 require_once (__DIR__ . "/views/footer.php");
+
+class BlogPost
+{
+    public $id;
+    public $title;
+    public $post;
+    public $author;
+    public $tags;
+    public $datePosted;
+}
