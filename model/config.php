@@ -7,6 +7,8 @@ $host = "localhost";
 $username = "root";
 $password = "root";
 $database = "blog_db";
+
+//connection to database
 if(!isset($_SESSION["connection"])) {
     $connection = new Database($host, $username, $password, $database);
     $_SESSION["connection"] = $connection;
