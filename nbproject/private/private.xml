@@ -3,11 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/xampp/htdocs/HardyC-Blog/model/database.php</file>
             <file>file:/C:/xampp/htdocs/HardyC-Blog/views/header.php</file>
             <file>file:/C:/xampp/htdocs/HardyC-Blog/css/blog-style.css</file>
-            <file>file:/C:/xampp/htdocs/HardyC-Blog/index_1.html</file>
-            <file>file:/C:/xampp/htdocs/HardyC-Blog/images/suit1.png</file>
-            <file>file:/C:/xampp/htdocs/HardyC-Blog/css/style1.css</file>
+            <file>file:/C:/xampp/htdocs/HardyC-Blog/controller/login-user.php</file>
         </group>
     </open-files>
 </project-private>
