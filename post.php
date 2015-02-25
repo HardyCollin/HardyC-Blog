@@ -18,3 +18,4 @@ class BlogPost
     public $tags;
     public $datePosted;
 }
+

@@ -8,3 +8,4 @@ if (authenticateUser()) {
 }
 require_once (__DIR__ . "/views/login-form.php");
 require_once (__DIR__ . "/views/footer.php");
+

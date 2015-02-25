@@ -6,42 +6,40 @@ h2 {
 h1 {
     font-family: 'Permanent Marker', cursive;
     color: yellow;
-    text-align: center;
+    text-align: right;
 }
 #jquery {
     cursor: url('../images/suit1.png'), default;
 }
 body{
-    background-color: darkorange;   
+    background-color:cornflowerblue;
 }
-.uppercase{
-    text-transform:uppercase;
-    font-size: 40px;
-    font-family: monospace;
-}
+
 h1{
     border: 15px dotted blue;
-    padding: 25px;
+    padding: 10px;
     padding-left: 70px;
     margin: 0;
-    margin-right: 490px;
-    margin-left: 490px;
+    margin-right: 500px;
+    margin-left: 500px;
+    text-align: center;
 }
 div{
-    border-style: double;
+    border-style: ridge;
     border-width: 5px;
     border-color: mediumblue;
-    padding: 70px;
+    padding: 0px;
     font-size: 20px;
+    text-align: center;
     }
 a{
-  margin-top: 40px;
+  margin-top: 20px;
   margin-left: 20px;
-  background-color: greenyellow;
+  background-color: yellow;
 }
-.container{
-    }
+
 nav{
-    font-style: oblique;
-    background-color: red;
+    font-style: normal;
+    background-color: silver;
+    text-align: center;
 }
