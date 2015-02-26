@@ -6,7 +6,7 @@ if (!authenticateUser()) {
     die();
 }
 ?>
-
+<!--Layout of the Posting page-->
 <h1>Creation of a Blog Post</h1>
 <form method="post" action="<?php echo $path . "/controller/create-post.php" ?>">
     <div>

@@ -1,7 +1,7 @@
 <?php
     require_once (__DIR__ . "/../model/config.php");
     ?>
-
+<!--Layout of registration for account-->
 <h1>Register</h1>
 <form method="post" action="<?php echo $path . "/controller/create-user.php"?>">
     <div>
